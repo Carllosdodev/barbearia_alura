@@ -78,6 +78,11 @@ nav a:hover {
 
 }
 
+.protudos li:hover  {
+    border-color: #C78C19;
+    font-size: 40px;
+}
+
 .produtos h2 {
     font-size: 30px;
     font-weight: bold;
@@ -93,3 +98,8 @@ nav a:hover {
     margin-top: 10px;
 }
 
+footer {
+    text-align: center;
+    background: url(/images/bg.jpg);
+    padding: 40px 0;
+}
